@@ -1,11 +1,12 @@
 body{
 
 
-    background-image:url("backround.webp");
+    background-image:url("image.jpg");
+    
 }
 body{
      border-style:inset; 
-    height:2000px;
+    height:1800px;
     width:100%px; 
     margin:0;
     padding:0;
