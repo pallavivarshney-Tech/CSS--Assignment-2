@@ -168,7 +168,7 @@ position: absolute;
     text-align: center;
     padding:30px;
     font-family:'Times New Roman', Times, serif;
-    font-size:xx-large;
+    font-size:42px;
     font-weight:bolder ;
     border-color: green;
     color:#712B75;
@@ -191,7 +191,7 @@ position: absolute;
     text-align: center;
     padding:30px;
     font-family:'Times New Roman', Times, serif;
-    font-size:xx-large;
+    font-size:42px;
     font-weight:bolder ;
     border-color: green;
     color:purple;
@@ -205,7 +205,7 @@ position: absolute;
     flex:1;
 }  
 .dishes2{
-    font-size:medium;
+    font-size:20px;
     color:purple;
 }
 .indian{ 
@@ -216,7 +216,7 @@ position: absolute;
     text-align: center;
     padding:30px;
     font-family:'Times New Roman', Times, serif;
-    font-size:xx-large;
+    font-size:42px;
     font-weight:bolder ;
     border-color: green;
     color:purple;
@@ -227,7 +227,7 @@ position: absolute;
     flex:1;
 }
 .dishes3{
-    font-size: medium;
+    font-size:20px;
     color:purple;
 }
 
@@ -242,7 +242,7 @@ position: absolute;
     border-radius:40px;
     text-align: center;
     color:purple;
-   font-size:xx-large;
+   font-size:42px;
     font-weight:bolder ;
     background-color: aqua;
     margin-right:50px;
@@ -254,7 +254,7 @@ position: absolute;
     
 }
 .dishes4{
-    font-size: medium;
+    font-size:20px;
     color:purple;
 }
 .Bread{
@@ -267,7 +267,7 @@ position: absolute;
     text-align: center;
     padding:30px;
     font-family:'Times New Roman', Times, serif;
-    font-size:xx-large;
+    font-size:42px;
     font-weight:bolder ;
     border-color: green;
     color:purple;
@@ -281,12 +281,12 @@ position: absolute;
   
     border-style:solid;
     width:15%;
-    height:200px;
+    height:250px;
     border-radius:40px;
     text-align: center;
     padding:30px;
     font-family:'Times New Roman', Times, serif;
-    font-size:xx-large;
+    font-size:42px;
     font-weight:bolder ;
     border-color: green;
     color:purple;
@@ -297,7 +297,7 @@ position: absolute;
     flex:1;
 }
 .dishes5{
-    font-size:medium;
+    font-size:20px;
     color:purple;
 }
 .flex{
