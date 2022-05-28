@@ -181,7 +181,7 @@ position: absolute;
     
 }
 .dishes{
-    font-size:medium;
+    font-size:16px;
 }
 .south{
     border-style:solid;
@@ -205,7 +205,7 @@ position: absolute;
     flex:1;
 }  
 .dishes2{
-    font-size:20px;
+    font-size:16px;
     color:purple;
 }
 .indian{ 
@@ -227,7 +227,7 @@ position: absolute;
     flex:1;
 }
 .dishes3{
-    font-size:20px;
+    font-size:16px;
     color:purple;
 }
 
@@ -254,7 +254,7 @@ position: absolute;
     
 }
 .dishes4{
-    font-size:20px;
+    font-size:16px;
     color:purple;
 }
 .Bread{
@@ -297,7 +297,7 @@ position: absolute;
     flex:1;
 }
 .dishes5{
-    font-size:20px;
+    font-size:16px;
     color:purple;
 }
 .flex{
